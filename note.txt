@@ -1,3 +1,5 @@
 this is a placeholder for git hypothesis testing
 
 once pushed and git log -p run, it says against the commit that it is head>master, origin/master
+
+Add a second local commit to see if head>master moves along with it while origin>master remains where it is.
